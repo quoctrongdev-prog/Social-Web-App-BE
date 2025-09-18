@@ -1,4 +1,4 @@
-# Cách chạy file
+# Cách cài đặt file
 1. Import db facebookwebapp.sql
 2. npm init
 3. npm i
