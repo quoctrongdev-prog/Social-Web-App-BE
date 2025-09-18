@@ -1,5 +1,5 @@
 # Cách cài đặt file
-1. Import db facebookwebapp.sql
+1. Import db socialwebapp.sql
 2. npm init
 3. npm i
 4. npm start
